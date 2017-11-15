@@ -1,6 +1,8 @@
 # voronoi
 voronoi diagram with python
-pre requests:
+<br>
+#pre requests:
+<br>
 install numpy, matplotlib and scipy.
 
 
